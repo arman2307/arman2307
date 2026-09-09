@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Arman Shaikh<br>🎓 Engineering Student | 📊 Aspiring Data Analyst & Software Developer<br>🤖 Data Science & ML Enthusiast<br>💻 Learning Java, SQL, Data Analytics, Machine Learning & AI 📌 Currently<br>🌱 Learning • 🛠️ Building • 📚 Improving<br>      “Build. Learn. Improve. Repeat.”<br>📫 Feel free to explore my repositories and connect with me!
+👋 Hi, I'm Arman Shaikh<br>🎓 Engineering Student | 📊 Aspiring Data Analyst & Software Developer<br>🤖 Data Science & ML Enthusiast<br>💻 Learning Java, SQL, Data Analytics, Machine Learning & AI  <br>📌 Currently<br>🌱 Learning • 🛠️ Building • 📚 Improving<br>      “Build. Learn. Improve. Repeat.”<br>📫 Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
